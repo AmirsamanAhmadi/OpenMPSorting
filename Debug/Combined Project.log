@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Combined Project.cpp
+c:\users\vahid\documents\visual studio 2017\projects\combined project\combined project\combined project.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\vahid\documents\visual studio 2017\projects\combined project\combined project\combined project.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\vahid\documents\visual studio 2017\projects\combined project\combined project\combined project.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\vahid\documents\visual studio 2017\projects\combined project\combined project\combined project.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\vahid\documents\visual studio 2017\projects\combined project\combined project\combined project.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\vahid\documents\visual studio 2017\projects\combined project\combined project\combined project.cpp(185): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\vahid\documents\visual studio 2017\projects\combined project\combined project\combined project.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\vahid\documents\visual studio 2017\projects\combined project\combined project\combined project.cpp(227): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\vahid\documents\visual studio 2017\projects\combined project\combined project\combined project.cpp(255): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\vahid\documents\visual studio 2017\projects\combined project\combined project\combined project.cpp(269): warning C4018: '<': signed/unsigned mismatch
+  Combined Project.vcxproj -> C:\Users\Vahid\Documents\Visual Studio 2017\Projects\Combined Project\Debug\Combined Project.exe
+  Combined Project.vcxproj -> C:\Users\Vahid\Documents\Visual Studio 2017\Projects\Combined Project\Debug\Combined Project.pdb (Partial PDB)
